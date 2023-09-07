@@ -22,7 +22,7 @@ To add only the WeatherPy.ipynb file to GitHub, for example, type git add Weathe
 Before adding your files to GitHub, add api_keys.py to the .gitignore file by following these steps:
   1. Open your python-api-challenge GitHub folder in VS Code.
   2. Open the .gitignore file and type the following code on the first line:
-        # Adding config.py file.
+        Adding config.py file.
         api_keys.py
 
   3. In the command line, type git status and press Enter. The output should indicate that the .gitignore file has been modified and the api_keys.py file is untracked.
@@ -76,14 +76,17 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
   1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 
-  2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
+     ![Screenshot 2023-09-06 at 8 45 49 PM](https://github.com/cbake105/python-api-challenge/assets/133677209/d06ac48a-3f8b-45c5-9b0f-1a34fd7b375d)
+
+
+  3. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
     - A max temperature lower than 27 degrees but higher than 21
     - Wind speed less than 4.5 m/s
     - Zero cloudiness
 
-  3. Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
+  4. Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
-  4. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
+  5. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 
-  5. Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
+  6. Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
 
