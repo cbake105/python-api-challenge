@@ -51,7 +51,9 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 ### Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
-Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image
+Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image:
+
+![Screenshot 2023-09-06 at 8 46 41 PM](https://github.com/cbake105/python-api-challenge/assets/133677209/e16edc60-1630-4d3d-bc02-74b3ff29785e)
 
 You should create the following plots:
 - Northern Hemisphere: Temperature vs. Latitude
@@ -89,4 +91,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
   5. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 
   6. Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
+
+     ![Screenshot 2023-09-06 at 8 47 35 PM](https://github.com/cbake105/python-api-challenge/assets/133677209/e9886989-097f-446f-9932-8d269e5938a1)
+
 
