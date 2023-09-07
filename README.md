@@ -95,3 +95,31 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
      ![Screenshot 2023-09-06 at 8 47 35 PM](https://github.com/cbake105/python-api-challenge/assets/133677209/e9886989-097f-446f-9932-8d269e5938a1)
 
 
+# Analysis
+
+Summary: 
+
+Temperature vs. Latitude Linear Regression Plot
+  
+  Discussion about linear relationship:
+  - Northern Hemisphere: Max Temp and Latitude in the Northern Hemisphere displays a negative correlation. The r-value(0.4897) indicates a positive linear relationship but has a weaker linear relationship than the Southern Hemisphere. 
+
+  - Southern Hemisphere: Max Temp and Latitude in the Southern Hemisphere displays a positive correlation. The r-value(0.6964) indicates a positive linear relationship and has a stronger linear relationship than the Northern Hemisphere. 
+
+Humidity vs. Latitude Linear Regression Plot
+
+  Discussion about linear relationship:
+  - Northern Hemisphere: Humidity and Latitude in the Northern Hemisphere displays no correlation. The r-value(0.00005) indicates a very weak linear relationship and has a weaker linear relationship than the Southern Hemisphere. 
+
+  - Southern Hemisphere: Humidity and Latitude in the Southern Hemisphere displays no correlation. The r-value(0.00587) indicates a very weak linear relationship and has a stronger linear relationship than the Northern Hemisphere. 
+
+# Cite
+AskBCS Learning Assistant
+
+Richie 
+https://smuvirtdatapt-yzn4480.slack.com/archives/D05CPK7DC9H/p1690553492411389
+
+Ryan Ellison 
+https://smuvirtdatapt-yzn4480.slack.com/archives/D05CPK7DC9H/p1690485212307359
+
+Class Office hours
