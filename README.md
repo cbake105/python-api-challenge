@@ -116,10 +116,10 @@ Humidity vs. Latitude Linear Regression Plot
 # Cite
 AskBCS Learning Assistant
 
-Richie 
-https://smuvirtdatapt-yzn4480.slack.com/archives/D05CPK7DC9H/p1690553492411389
+Sbu
+https://smuvirtdatapt-yzn4480.slack.com/archives/C05QMFPU2SK
 
-Ryan Ellison 
-https://smuvirtdatapt-yzn4480.slack.com/archives/D05CPK7DC9H/p1690485212307359
+Luna 
+https://smuvirtdatapt-yzn4480.slack.com/archives/C05R3DZC8SF
 
 Class Office hours
